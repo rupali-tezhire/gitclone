@@ -3,7 +3,7 @@
 import pandas as pd
 
 # Define the expected version
-EXPECTED_PANDAS_VERSION = "2.1.0"  # Replace with your desired version
+EXPECTED_PANDAS_VERSION = "2.2.3"  # Replace with your desired version
 
 # Test function
 def test_pandas_version():
